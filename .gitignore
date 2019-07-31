@@ -42,3 +42,10 @@ src/version.h
 lib/
 share/
 include/darknet/
+
+CMakeFiles/
+dark.dir/
+darknet.dir/
+uselib.dir/
+x64/
+Release/
